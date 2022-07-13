@@ -68,4 +68,4 @@ It is possible to detect pathological inputs by tracking the recursion depth of 
  - Figure 5 - Introspective Sort (Pathological Inputs). This figure compares introspective sort to quicksort for worst-case quicksort inputs.
 
 ## Credit
-JMUC huffman project, project description reworded for brevity.
+JMUC huffman project, project description reworded/reduced for brevity.
