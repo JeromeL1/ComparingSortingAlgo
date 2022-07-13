@@ -20,7 +20,7 @@ written by professor to help us experiement with the algorithm we wrote and test
 
 ## MergeSortImproved.java
 
-if $n$ is the size of the two subaarays being merged, the following requres n assignments operations.
+if $n$ is the size of the two subarrays being merged, the following requres n assignments operations.
 ```
 1. Copy all values from the two merge-sorted halves into a temporary array.
 2. Merge the values from the temporary array back into the original array.
