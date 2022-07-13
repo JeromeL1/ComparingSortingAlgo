@@ -1,6 +1,6 @@
 # ComparingSortingAlgo
 
-wrote modified versions of merge and quicksort that exhibit better performance than the standard versions described in textbook (OpenDSA). implemented three improvements (two for merge sort and one for quicksort) that should improve some aspect of the algorithm’s performance without requiring a great deal of additional code. Also, experimentally evaluated the impact of my improvements.
+wrote modified versions of merge and quicksort that exhibit better performance than the standard versions described in textbook (OpenDSA). implemented three improvements (two for merge sort and one for quicksort) that should improve some aspect of the algorithm’s performance without requiring a great deal of additional code. Also, experimentally evaluated the impact of the improvements.
 
 ## Given Implementations by professor
 
