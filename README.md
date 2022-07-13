@@ -40,6 +40,8 @@ The next improvement is based on the observation that merge sort is actually slo
 
 the following pseudocode describes the method to recursively break the input into smaller and smaller pieces until some threshold is reached, and then switch strategies to a sorting algorithm that is more efficient on those small inputs.
 
+tested different inputs to find the optimal threshhold
+
 ```
 merge_sort(sub-array)
     If sub-array has fewer than MERGE_SORT_THRESHOLD entries:
